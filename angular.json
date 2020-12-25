@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "pruebaAngular"
+  "defaultProject": "pruebaAngular",
+  "cli": {
+    "analytics": "717f5343-6115-457e-8be8-8ae4ba9e8d52"
+  }
 }
